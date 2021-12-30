@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [Novared SA](https://www.novared.net/)
 
-- 🌱 I’m currently learning **HTML, CSS and Javascript**
+- 🌱 I’m currently learning **HTML, CSS and Javascript** in  <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> (🔥)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
