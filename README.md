@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciano</h1>
 <h3 align="center">student of Information Systems Engineering from Buenos Aires.</h3>
 
-
+- 💻 Im currently learning Python through  <a href="https://www.pluralsight.com/">Pluralsight</a>
 - 🌱 During my free time, i enjoy learning **HTML, CSS and Javascript** at <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> 
 
 <h3 align="left">Connect with me:</h3>
