@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Luciano</h1>
 <h3 align="center">student of Information Systems Engineering from Buenos Aires.</h3>
 
 
