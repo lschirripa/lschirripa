@@ -29,7 +29,7 @@
 <p align="left"> 
  
    <a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="40" height="40"/> </a>
-     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt="springBoot" width="40" height="40"/> </a>
+     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="springBoot" width="40" height="40"/> </a>
       <a href="https://mybatis.org/mybatis-3/es/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/13905/199136/icon/pluginIcon.svg" alt="myBatis" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="c" width="40" height="40"/> </a> 
      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker" width="40" height="40"/> </a> 
