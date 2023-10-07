@@ -22,6 +22,8 @@
   <a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="40" height="40"/> </a>
   &emsp;
   <a href="https://www.rabbitmq.com/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="rabbitMQ"  width="40" height="40"/> </a>
+  &emsp;
+  <a href="https://www.postman.com/"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman"  width="40" height="40"/> </a>
 
   
   
