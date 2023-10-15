@@ -22,8 +22,7 @@
   <a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="40" height="40"/> </a>
   &emsp;
   <a href="https://www.rabbitmq.com/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="rabbitMQ"  width="40" height="40"/> </a>
-  &emsp;
-  <a href="https://www.postman.com/"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman"  width="40" height="40"/> </a>
+
 
   
   
@@ -33,6 +32,7 @@
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman"  width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="springBoot" width="40" height="40"/> </a>
   <a href="https://mybatis.org/mybatis-3/es/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/13905/199136/icon/pluginIcon.svg" alt="myBatis" width="40" height="40"/> </a>
